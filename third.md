@@ -18,9 +18,9 @@ Normally your would enter text in [Markdown](http://daringfireball.net/projects/
 http://youtu.be/TPY8UwlTIc0
 
 The next bit should be the YouTube embed using the new embed code
-<iframe width="560" height="315" src="//www.youtube.com/embed/TPY8UwlTIc0" frameborder="0" allowfullscreen></iframe>
+'''<iframe width="560" height="315" src="//www.youtube.com/embed/TPY8UwlTIc0" frameborder="0" allowfullscreen></iframe>'''
 
 and then the old one
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/TPY8UwlTIc0?version=3&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TPY8UwlTIc0?version=3&amp;hl=en_GB" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+'''<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/TPY8UwlTIc0?version=3&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TPY8UwlTIc0?version=3&amp;hl=en_GB" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>'''
 
 Is using markdown cheating?
