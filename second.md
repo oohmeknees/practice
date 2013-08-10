@@ -2,7 +2,8 @@
 title: Another page
 layout: default
 ---
-## A second page
+
+# A second page
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
