@@ -16,4 +16,11 @@ Note: it looks like you cannot hot link straight from Evernote (even if the note
 
 
 How about dropbox?
-![dropbox](https://www.dropbox.com/s/9bjnh6mkf7bv4ok/S1170001.JPG)
+![dropbox](https://dl.dropboxusercontent.com/u/92235094/beast.jpg)
+
+Needs to be in a public folder (https://www.dropbox.com/help/16/en) and need to get the public link...
+
+How about SWF files?
+
+https://dl.dropboxusercontent.com/u/92235094/Animated%20Button.swf
+
