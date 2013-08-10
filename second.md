@@ -1,6 +1,6 @@
 ---
-Title: Another page
-Layout: default
+title: Another page
+layout: default
 ---
 ## A second page
 
