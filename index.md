@@ -1,3 +1,8 @@
+---
+title: Welcome to the practice site
+layout: default
+---
+
 # Hello!
 
 Welcome to the *practice* site
