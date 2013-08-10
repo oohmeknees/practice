@@ -3,7 +3,7 @@ title: Welcome to the practice site
 layout: default
 ---
 
-# Hello!
+#Hello!
 
 Welcome to the *practice* site
 
